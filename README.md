@@ -108,7 +108,7 @@ The resulting components can be used as inputs for risk analysis, predictive mod
 
 ## Author
 
-**Immani Navor Trejo Rojas**  
+**Immani Trejo**  
 Data Science | Analytics | IT Background  
 Experience in data analysis, applied statistics, and Python-based modeling.
 
